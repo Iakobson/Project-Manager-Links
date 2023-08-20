@@ -19,6 +19,24 @@
   - One of the benefits of this book is how it presents the logic of Agile practices.
 * **Scrum and XP from the Trenches** by Henrik Kniberg
   - This book aims to give you a head start by providing a detailed down-to-earth account of how one Swedish company implemented Scrum and XP with a team of approximately 40 people and how they continuously improved their process over a year.
+* **Agile Retrospectives: Making Good teams great** by Esther Derby
+  - The book is a good guide on how to lead a practical discussion.
+  - In addition, it contains valuable tips on how to lead a retrospective.
+* **Everything is negotiable** by Gavin Kennedy
+  - This book provides tips and tricks on how to reach what you want and get the best deal in any negotiations
+  - (like Never accept the first offer, Don’t compromise, please listen to your component at first and their reaction to your request; Ask as many questions as possible, clarify all details, and apply “what if”)
+  - (with the help of these questions and replies to them, you will protect yourself from troubles)
+  - You can learn practical and powerful negotiation skills that are part of a manager’s daily routine.
+* **The Mom Test:** by Rob Fitzpatrick
+  - _How to talk to customers & learn if your business is a good idea when everyone is lying to you_
+  - The best book I’ve read helps improve the transparency of the message you are trying to bring to the client or a team member.
+  - It also helps to understand better the message a client is trying to get to you.
+* **Crucial Conversations:** by Kerry Patterson, Joseph Grenny, Ron McMillan, and Al Switzler
+  - _Tools for Talking When Stakes Are Hig_
+  - The book should help you and others stay in open dialogue so both sides can get what they want.
+  - In addition, it contains tips and tricks on how to conduct a productive conversation.
+
+
 
 
 
