@@ -36,6 +36,23 @@
   - The book should help you and others stay in open dialogue so both sides can get what they want.
   - In addition, it contains tips and tricks on how to conduct a productive conversation.
 
+## People Management
+
+* **The five dysfunctions of a team** by Patrick Lencioni
+  - It is an exciting form of a novel, and it is easy to read.
+  - The author describes (absence of trust, fear of conflict, lack of commitment, avoidance of accountability, and attention to results) with the help of the leadership style of Kathryn Petersen, Decision Tech’s CEO.
+  - Using this book, you as a manager can follow some actionable steps to avoid the five mentioned dysfunctions, build transparent relations between team members, and organize an effective team.
+* **The Culture Map** by Erin Meyer
+  - The book provides a field-tested model for decoding how cultural differences impact international business.
+  - Erin Meyer combines an innovative analytical framework with practical, actionable advice for working in a global world.
+  - Whether you need to motivate employees, delight clients, or organize a conference call among cross-cultural team members, the eight dimensions featured in The Culture Map will help you improve your effectiveness.
+
+## Leadership skills
+
+
+
+
+
 
 
 
