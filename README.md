@@ -49,13 +49,35 @@
 
 ## Leadership skills
 
+* **The Ideal Executive** by Ichak Kalderon Adizes
+  - Why You Cannot Be One and What To Do About It
+  - The book helps a manager choose the best management approach — introduces the world’s classic classification of management styles.
+* **Management/Mismanagement Styles:** by Ichak Kalderon Adizes
+  - How to Identify a Style and What to Do about It
+  - In this book, the author explains different management styles and that one person cannot perform all the four roles necessary for effective management.
+  - This book will help you identify and improve your management style and the management styles of your colleagues or subordinates.
+* **Getting things done** by David Allen
+  - If you ask for a short description of this book: it is a time management system.
+  - Allen states, “there is an inverse relationship between things on your mind and those things getting done.”
+  - So anyone who feels like they’re drowning in “priorities” needs help focusing and getting things done.
+* **Emotional Intelligence 2.0** by Travis Bradberry and Jean Greaves
+  - Great book to start your introduction to the EQ world — describes practices that will help you to develop your EQ.
+
+- - -
+
+### [softserve-pm](https://medium.com/softserve-pm)
+
+> _Here we decode PM, gather stories about collaboration between PM and team-mates, talk about Community._
 
 
+- - -
 
+## Interesting Articles
 
-
-
-
+* [Компетенції 21 сторіччя.](https://ux.pub/oksana_nosenko/kompietientsiyi-21-storichchia-abo-chomu-hard-skills-tsie-lishie-50-uspikhu-1kmc)
+  - _Або чому hard skills це лише 50% успіху?_
+  - Важливі принципи команди та компанії 21 сторіччя
+  - А що ж до особистісних компетенцій?
 
 
 
